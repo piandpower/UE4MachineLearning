@@ -6,12 +6,17 @@ The Basic Neural Network was based on the work done by Dave Miller.  Over at htt
 I am expanding this plugin to include genetic neural network functionality. Which can be looked at in this video. https://www.youtube.com/watch?v=NtsJf0ottIw
 
 Current Working Stuff
+---------------------
 Basic Neural Network
 
+
 Current todo
+---------------------
 Rendering the neural network output using dynamic texture.
 
+
 Future Stuff
+---------------------
 Genetics
 Convolutions
 2D Neural Networks
