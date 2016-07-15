@@ -17,7 +17,7 @@ Rendering the neural network output using dynamic texture.
 
 Future Stuff
 ---------------------
-Genetics
-Convolutions
-2D Neural Networks
-Bayes Networks
+Genetics,
+Convolutions,
+2D Neural Networks,
+Bayes Networks,
